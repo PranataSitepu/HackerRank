@@ -1,5 +1,5 @@
 # Hacker-Rank
-Solved problem from Hackkerank website
+Solved problem from HackerRank website
 
 ## Data Structures
 
