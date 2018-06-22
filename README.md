@@ -18,22 +18,22 @@ Solved problem from HackerRank website
 6. [Swap Nodes - Algo](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)              -     [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%201/Data%20Structures/Trees/Swap%20Nodes%20%5BAlgo%5D/Swap%20Nodes.cpp)
 
 ### Linked List
-1. [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Linked%20List/Cycle%20Detection/Cycle%20Detection.cpp)
+1. [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)   -  [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Linked%20List/Cycle%20Detection/Cycle%20Detection.cpp)
 
 ### Stack
-1. [Balanced Bracket](https://www.hackerrank.com/challenges/balanced-brackets/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Balanced%20Brackets/Balanced%20Brackets.cpp)
-2. [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Simple%20Text%20Editor/Simple%20Text%20Editor.cpp)
-3. [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Poisonous%20Plants/Poisonous%20Plants.cpp)
-4. [Waiter](https://www.hackerrank.com/challenges/waiter/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Waiter/Waiter.cpp)
+1. [Balanced Bracket](https://www.hackerrank.com/challenges/balanced-brackets/problem)  -   [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Balanced%20Brackets/Balanced%20Brackets.cpp)
+2. [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)   -   [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Simple%20Text%20Editor/Simple%20Text%20Editor.cpp)
+3. [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Poisonous%20Plants/Poisonous%20Plants.cpp)
+4. [Waiter](https://www.hackerrank.com/challenges/waiter/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Stack/Waiter/Waiter.cpp)
 
 ### Queue
-1. [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Queue/Queue%20Using%20Two%20Stacks/Queue%20Using%20Two%20Stacks.cpp)
-2. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Queue/Truck%20Tour/Truck%20Tour.cpp)
+1. [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Queue/Queue%20Using%20Two%20Stacks/Queue%20Using%20Two%20Stacks.cpp)
+2. [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Queue/Truck%20Tour/Truck%20Tour.cpp)
 
 ### Heap
-1. [Find The Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Find%20The%20Running%20Median/Find%20The%20Running%20Median.cpp)
-2. [Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Minimum%20Average%20Waiting%20Time/Minimum%20Average%20Waiting%20Time.cpp)
+1. [Find The Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Find%20The%20Running%20Median/Find%20The%20Running%20Median.cpp)
+2. [Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Minimum%20Average%20Waiting%20Time/Minimum%20Average%20Waiting%20Time.cpp)
 
 ### Greedy
-1. [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Minimum%20Average%20Waiting%20Time/Minimum%20Average%20Waiting%20Time.cpp)
-2. [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) - Solution(https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Greedy/Max%20Min/Max%20Min.cpp)
+1. [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Heap/Minimum%20Average%20Waiting%20Time/Minimum%20Average%20Waiting%20Time.cpp)
+2. [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Greedy/Max%20Min/Max%20Min.cpp)
