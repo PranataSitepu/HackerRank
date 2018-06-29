@@ -41,15 +41,15 @@ Solved problem from HackerRank website
 2. [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%202/Data%20Structures/Greedy/Max%20Min/Max%20Min.cpp)
 
 ### String
-1. [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) - [Solution]()
+1. [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/String/Sherlock%20and%20Anagrams/Sherlock%20and%20Anagrams.cpp)
 
 ### Search
-1. [KnightL on Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem) - [Solution]()
-2. [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem) - [Solution]()
+1. [KnightL on Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/Search/KnightL%20on%20Chessboard/KnightL%20on%20Chessboard.cpp)
+2. [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/Search/Count%20Luck/Count%20Luck.cpp)
 
 ### Graph Theory
-1. [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem) - [Solution]()
+1. [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/Graph%20Theory/Floyd%20City%20of%20Blinding%20Lights/Floyd%20City%20of%20Blinding%20Lights.cpp)
 
 ### Dynamic Programming
-1. [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) - [Solution]()
-2. [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) - [Solution]()
+1. [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/Dynamic%20Programming/Stock%20Maximize/Stock%20Maximize.cpp)
+2. [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) - [Solution](https://github.com/PranataSitepu/HackerRank/blob/master/Progress%203/Algorithm/Dynamic%20Programming/Unbounded%20Knapsack/Unbounded%20Knapsack.cpp)
